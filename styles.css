@@ -1,0 +1,40 @@
+body{
+   text-align: center;
+   background-color:aquamarine;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: solid black 5px;
+    border-radius: 20px;
+    margin: auto;
+    margin: 20px;
+
+}
+.container{
+    display: flex;
+ 
+    justify-content: center;
+    border: solid black 2px;
+    background-color: antiquewhite;
+
+}
+.red{
+    background-color: red;
+
+}
+.green{
+    background-color: rgb(40, 92, 85);
+
+}
+.orange{
+    background-color: orange;
+
+}
+.lavender{
+    background-color: lavender;
+
+}
+.flash{
+    background-color: white;
+}
